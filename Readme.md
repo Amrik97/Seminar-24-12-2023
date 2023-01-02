@@ -71,4 +71,4 @@
 ## Запрос изменений с сервера 
 Чтобы запросить изменений с сайте (к примеру вам заявили, на сайте отличное обновление) git pull origin master
 
->PS: Updated HomeWork date 02.01.2023 (final version) (but it's a git clone)
+>PS: Updated HomeWork date 02.01.2023 (final version) (but it's a git clone) =)
